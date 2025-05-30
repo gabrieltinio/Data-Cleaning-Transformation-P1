@@ -14,4 +14,15 @@ _These are the following guiding questions I will be using for this project:_
 - How can we manipulate the dataset to show the Top 25 games by North American sales (NA_Sales) with a release date of 2010 onwards?
 - How can we rename the column headers to make them more digestable for the user?
 
-### Project Steps Performed
+### Project Steps Performed  
+1. Import pandas
+2. View dataset to gain context on values
+3. View the data type of each column
+4. Analyze if data types are appropriate
+5. Change data types accordingly while accounting for NA values
+6. Combine NA_Sales and EU_Sales and create a new column
+7. Group by Platform
+8. Create a new dataframe containing only games released in 2010 onwards
+9. Show the top 25 games by NA_Sales
+10. Analyze column names
+11. Rename columns to add clarity
