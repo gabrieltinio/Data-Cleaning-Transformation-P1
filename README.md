@@ -4,7 +4,7 @@
 To demonstrate data cleaning and data transformation skills using Python (Pandas + Jupyter Notebook). The goal is to prepare the data for further analysis or visualization creation.
 
 ### Project Dataset Background
-I will be using a dataset showing the video game sales across the world overtime. This dataset has information on the video game itself such as the platform it was on, release date, genre, publisher, and sales.  
+I will be using a dataset showing the video game sales across the world overtime. Incomplete records have already been dropped and there are no duplicates. This dataset has information on the video game itself such as the platform it was on, release date, genre, publisher, and sales.  
 You can download the Kaggle dataset at the following link: https://www.kaggle.com/datasets/gregorut/videogamesales?resource=download
 
 ### Project Guiding Questions
